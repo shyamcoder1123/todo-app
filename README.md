@@ -37,7 +37,7 @@ Configure the MySQL database in the `src/main/resources/application.properties` 
 spring.application.name=Todo
 spring.datasource.url=jdbc:mysql://localhost:3306/todo_app
 spring.datasource.username=root
-spring.datasource.password=password
+spring.datasource.password=your_password
 spring.jpa.hibernate.ddl-auto=update
 
 
